@@ -14,7 +14,7 @@ int main(void)
             sum += i;
         }
 
-        printf("%lld");
+        printf("%lld",sum);
     }
     /* TODO */
     return 0;
